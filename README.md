@@ -74,6 +74,7 @@
 <a href="https://www.linkedin.com/in/marco-vega-181926297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<br>
 <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
