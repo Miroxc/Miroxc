@@ -78,7 +78,10 @@
 <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
+<br>
 
+
+---
 
 🌟 **¡Dale una estrella a mis repos si te gustan!** 🌟  
 
