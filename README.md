@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <br>
-<a href="[https://twitter.com](https://x.com/MV7383619)" target="_blank">
+<a href="https://x.com/MV7383619" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <br>
