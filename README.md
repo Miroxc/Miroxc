@@ -76,7 +76,7 @@
 </a>
 <br>
 <a href="https://x.com/MV7383619" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
 </a>
 <br>
 
