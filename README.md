@@ -63,15 +63,24 @@
 
 ---
 
-<h2 align="center"> Mi Estación de Trabajo </h2>
+<h2 align="center"> 🖥️ Mi Estación de Trabajo </h2>
 
 <div align="center">
   
-![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Sistema Operativo](https://img.shields.io/badge/Sistema_Operativo-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
-![CPU](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
+![IDE](https://img.shields.io/badge/XAMPP-FA7A00?style=for-the-badge&logo=xampp&logoColor=white)
+<br>
+![Navegador](https://img.shields.io/badge/Navegador-Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
+<br>
+![Lenguajes](https://img.shields.io/badge/Lenguajes-HTML/CSS/PHP-FF6600?style=for-the-badge)
+<br>
+![Base de Datos](https://img.shields.io/badge/Base_de_Datos-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
 
 
 
