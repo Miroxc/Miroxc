@@ -71,13 +71,8 @@
 <br>
 ![Editor](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
-![IDE](https://img.shields.io/badge/XAMPP-FA7A00?style=for-the-badge&logo=xampp&logoColor=white)
-<br>
 ![Navegador](https://img.shields.io/badge/Navegador-Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
 <br>
-![Lenguajes](https://img.shields.io/badge/Lenguajes-HTML/CSS/PHP-FF6600?style=for-the-badge)
-<br>
-![Base de Datos](https://img.shields.io/badge/Base_de_Datos-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
