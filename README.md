@@ -28,11 +28,13 @@
 
 ---
 
-### Déjame presentarme 👨‍💻  
+Déjame presentarme 👨‍💻
 
-- 🔭 Actualmente estoy trabajando en proyectos web con **HTML, CSS, jQuery y PHP** y conectándolos a **bases de datos MySQL**.  
-- 🎯 Mis objetivos: Aprender **Frontend**, **Backend**, **Bases de Datos** y **Ciberseguridad** para ingresar a Ingeniería en Ciberseguridad en 2026.  
-- 🎨 **Hobbies:** Aprender programación, resolver problemas, ver series, escuchar música y entrenar en el gimnasio.  
+🔭 Actualmente soy programador Backend y me estoy especializando en Java, desarrollando proyectos completos y robustos.
+
+🎯 Mis objetivos: Profundizar en Java avanzado, patrones de diseño, bases de datos, APIs y ciberseguridad, consolidando mi carrera en Ingeniería en Ciberseguridad.
+
+🎨 Hobbies: Crear proyectos de software, resolver problemas complejos, aprender nuevas tecnologías, entrenar en el gimnasio y disfrutar de buena música y series.
 - 💡 **Habilidades especiales:**  
     - ✅ Resolución de problemas  
     - ✅ Desarrollo web  
